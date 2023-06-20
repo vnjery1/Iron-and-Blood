@@ -5,7 +5,7 @@
 		"leaderName": "Victoria",
 		"adjective": ["British"],
 		"startBias": ["Coast"],
-/*		"preferredVictoryType": "Victory type",
+/*		"preferredVictoryType": "Culture, Domination",
 		
 		"declaringWar": "Frase",
 		"attacked": "Frase",
@@ -26,10 +26,10 @@
 	},
 		     {
                 "name": "France",
-		"leaderName": "Napoleon",
+		"leaderName": "Napoleon III",
 		"adjective": ["French"],
 /*		"startBias": ["terrains"],
-		"preferredVictoryType": "Victory type",
+		"preferredVictoryType": "Science, Domination",
 		
 		"declaringWar": "Frase",
 		"attacked": "Frase",
@@ -53,7 +53,7 @@
 		"leaderName": "Otto von Bismark",
 		"adjective": ["Prussian"],
 /*		"startBias": ["terrains"],
-		"preferredVictoryType": "Victory type",
+		"preferredVictoryType": "Domination",
 		
 		"declaringWar": "Frase",
 		"attacked": "Frase",
@@ -74,10 +74,10 @@
 	},
 		     {
                 "name": "Russia",
-		"leaderName": "Alexander",
+		"leaderName": "Catherine",
 		"adjective": ["Russian"],
 /*		"startBias": ["terrains"],
-		"preferredVictoryType": "Victory type",
+		"preferredVictoryType": "Culture, Science",
 		
 		"declaringWar": "Frase",
 		"attacked": "Frase",
@@ -98,10 +98,10 @@
 	},
 		     {
                 "name": "Austria",
-		"leaderName": "Leader Name",
+		"leaderName": "Maria Theresa",
 		"adjective": ["Austrian"],
 /*		"startBias": ["terrains"],
-		"preferredVictoryType": "Victory type",
+		"preferredVictoryType": "Science, Culture",
 		
 		"declaringWar": "Frase",
 		"attacked": "Frase",
@@ -121,8 +121,8 @@
 		"cities": ["Viena","city","cities","city"]
 	},
 		     {
-                "name": "The Ottomen",
-		"leaderName": "Leader Name",
+                "name": "The Ottomans",
+		"leaderName": "Ahmed",
 		"adjective": ["Ottoman"],
 /*		"startBias": ["terrains"],
 		"preferredVictoryType": "Victory type",
@@ -146,10 +146,10 @@
 	},
 		     {
                 "name": "Spain",
-		"leaderName": "Leader Name",
+		"leaderName": "Isabella II",
 		"adjective": ["Spanish"],
 /*		"startBias": ["terrains"],
-		"preferredVictoryType": "Victory type",
+		"preferredVictoryType": "Culture, Religion",
 		
 		"declaringWar": "Frase",
 		"attacked": "Frase",
@@ -170,10 +170,10 @@
 	},
 		     {
                 "name": "Sweden",
-		"leaderName": "Leader Name",
-		"adjective": ["Civilian"],
+		"leaderName": "Karl Johan",
+		"adjective": ["Swedish"],
 /*		"startBias": ["terrains"],
-		"preferredVictoryType": "Victory type",
+		"preferredVictoryType": "Domination, Science",
 		
 		"declaringWar": "Frase",
 		"attacked": "Frase",
@@ -193,11 +193,11 @@
 		"cities": ["Stockholm","city","cities","city"]
 	},
 		     {
-                "name": "Sardinia-Piedmont", //alias: Italy
+                "name": "Sardinia-Piedmont", 
 		"leaderName": "Leader Name",
-		"adjective": ["Civilian"],
+		"adjective": ["Sardinian","Piemonte"],
 /*		"startBias": ["terrains"],
-		"preferredVictoryType": "Victory type",
+		"preferredVictoryType": "Culture",
 		
 		"declaringWar": "Frase",
 		"attacked": "Frase",
@@ -220,10 +220,10 @@
 		     {
                 "name": "Denmark",
 		"leaderName": "Leader Name",
-		"adjective": ["Civilian"],
-/*		"cityStateType": "Type",
+		"adjective": ["Denmark"],
+/*		"cityStateType": "Maritime",
 		"startBias": ["terrains"],
-		"preferredVictoryType": "Victory type",
+		"preferredVictoryType": "Culture, Science",
 		
 		"declaringWar": "Frase",
 		"attacked": "Frase",
@@ -244,11 +244,11 @@
 	},
 		     {
                 "name": "Portugal",
-		"leaderName": "Leader Name",
-		"adjective": ["Civilian"],
-/*		"cityStateType": "Type",
+		"leaderName": "Maria I",
+		"adjective": ["Portuguese"],
+/*		"cityStateType": "Maritime, Militaristic",
 		"startBias": ["terrains"],
-		"preferredVictoryType": "Victory type",
+		"preferredVictoryType": "Science, Religion, Domination",
 		
 		"declaringWar": "Frase",
 		"attacked": "Frase",
@@ -270,7 +270,7 @@
 		     {
                 "name": "Serbia",
 		"leaderName": "Leader Name",
-		"adjective": ["Civilian"],
+		"adjective": ["Serbian"],
  /*		"cityStateType": "Type",
 		"startBias": ["terrains"],
 		"preferredVictoryType": "Victory type",
@@ -295,7 +295,7 @@
 		     {
                 "name": "Greece",
 		"leaderName": "Leader Name",
-		"adjective": ["Civilian"],
+		"adjective": ["Greek"],
 //		"cityStateType": "Type",
 //		"startBias": ["terrains"],
 		
@@ -313,9 +313,9 @@
 		"cities": ["Athenas"]
 	},
 		     {
-                "name": "Luxemburg",
+                "name": "Luxembourg",
 		"leaderName": "Leader Name",
-		"adjective": ["Civilian"],
+		"adjective": ["Luxembourgish"],
 //                "cityStateType": "Type",
 //		"startBias": ["terrains"],
 		
@@ -330,7 +330,7 @@
 		"uniqueName": "Unique Name",
 		"uniques": ["Nation Unique"],
 		     
-		"cities": ["Luxemburg"]
+		"cities": ["Luxembourg"]
 	},
 	{
                 "name": "Switzerland",
@@ -355,7 +355,7 @@
 	{
                 "name": "Anhalt",
 		"leaderName": "Leader Name",
-		"adjective": ["Civilian"],
+		"adjective": ["Anhalter"],
 //                "cityStateType": "Type",
 //		"startBias": ["terrains"],
 		
@@ -370,11 +370,11 @@
 		"uniqueName": "Unique Name",
 		"uniques": ["Nation Unique"],
 		     
-		"cities": ["Capital","city","cities","city"]
+		"cities": ["Halle","city","cities","city"]
 	},
 	{
                 "name": "Bavaria",
-		"leaderName": "Leader Name",
+		"leaderName": "Ludwig II",
 		"adjective": ["Bavarian"],
 //                "cityStateType": "Type",
 //		"startBias": ["terrains"],
@@ -606,15 +606,15 @@
 		"outerColor": [3,2,1],
 		"innerColor": [1,2,3],
 		     
-		"uniqueName": "Unique Name",
+		"uniqueName": "The Most Hansentic City",
 		"uniques": ["Nation Unique"],
 		     
 		"cities": ["Capital","city","cities","city"]
 	},
 	{
                 "name": "Mecklenburg",
-		"leaderName": "Leader Name",
-		"adjective": ["Civilian"],
+		"leaderName": "Charlotte",
+		"adjective": ["Mecklenburgan"],
 //                "cityStateType": "Type",
 //		"startBias": ["terrains"],
 		
@@ -709,8 +709,8 @@
 	},
 	{
                 "name": "The Papal States",
-		"leaderName": "Leader Name",
-		"adjective": ["Civilian"],
+		"leaderName": "Pius X",
+		"adjective": ["Papal Citizens"],
 //                "cityStateType": "Type",
 //		"startBias": ["terrains"],
 		
@@ -791,7 +791,7 @@
 	//America
 		     {
                 "name": "Mexico",
-		"leaderName": "Leader Name",
+		"leaderName": "Benito Juarez",
 		"adjective": ["Mexican"],
 /*		"startBias": ["terrains"],
 		"preferredVictoryType": "Victory type",
@@ -811,7 +811,7 @@
 		"uniqueName": "Unique Name",
 		"uniques": ["Nation Unique"],
 		     
-		"cities": ["México","city","cities","city"]
+		"cities": ["México City","city","cities","city"]
 	},
 		     {
                 "name": "Empire of Brazil",
@@ -839,7 +839,7 @@
 	},
 		     {
                 "name": "Argentina",
-		"leaderName": "Leader Name",
+		"leaderName": "l",
 		"adjective": ["Argentinian"],
 /*		"startBias": ["terrains"],
 		"preferredVictoryType": "Victory type",
@@ -959,8 +959,8 @@
 	},
 		     {
                 "name": "U.S.C.A",
-		"leaderName": "Leader Name",
-		"adjective": ["Central American"],
+		"leaderName": "I",
+		"adjective": ["Confederates"],
 /*		"startBias": ["terrains"],
 		"preferredVictoryType": "Victory type",
 		
@@ -983,8 +983,8 @@
 	},
 		     {
                 "name": "The U.S.A",
-		"leaderName": "leader name",
-		"adjective": ["United Statian"], //XD
+		"leaderName": "Abraham Lincoln",
+		"adjective": ["American"], //XD
 /*		"startBias": ["terrains"],
 		"preferredVictoryType": "Victory type",
 		
@@ -1008,7 +1008,7 @@
 		     {
                 "name": "Haiti",
 		"leaderName": "Leader Name",
-		"adjective": ["Civilian"],
+		"adjective": ["Haitian"],
 /*		"startBias": ["terrains"],
 		"preferredVictoryType": "Victory type",
 		
@@ -1050,6 +1050,12 @@
 		     
 		"cities": ["Capital","city","cities","city"]
 	},
+	//Asia
+	
+	
+	
+	
+	
 	//Spectator
 	{
 		"name": "Spectator",
