@@ -79,6 +79,30 @@
 		"cities": ["Buenos Aires","Tucuman","Catamarca","Tupiza","La Plata","Jujuy","La Rioja","Mendoza","Mizque","Salta","San Juan","Tarija","San Luis","Santiago del Estero","Cordoba","Sucre","Santa Fe","Rosario","Potosi","Cochabamba","Paraná","Carmen de Patagones"]
 	},
 	{
+                "name": "Argentina",
+		"leaderName": "Domingo Faustino Sarmiento",
+		"adjective": ["Argentinian"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Culture, Diplomacy",
+		
+		"declaringWar": "You are nothing but a barbarian, I declare war on you, you barbarian.",
+		"attacked": "What a barbarian, I don't want an external barbarian, you will be beaten no matter what.",
+		"afterPeace": "Next time, I warn you, don't go berserk or Argentina will beat you once more.",
+		"defeated": "I was born in a family that lived long years in mediocrity bordering on destitution. I never wished that for my nation.",
+		"introduction": "Welcome to Argentina. If you value education you will be welcome here.",
+		"neutralHello": "Greetings, leader. What can the Argentine Republic help you here?",
+		"hateHello": "What do you want here, barbarian?!",
+		"tradeRequest": "Would you like to trade with us Argentinian?",
+
+		"outerColor": [222,222,255],
+		"innerColor": [255,255,255],
+		     
+		"uniqueName": "Civilizacion y Barbarie",
+		"uniques": ["Conquering cities and encampments, and settling cities, spawns a Fort on the tile itself. Forts and Citadels yield +1 Food on adjacent tiles, and while worked, increase the Production of military units and science buildings by +10%"],
+		     
+		"cities": ["Buenos Aires","Tucuman","Catamarca","Tupiza","La Plata","Jujuy","La Rioja","Mendoza","Mizque","Salta","San Juan","Tarija","San Luis","Santiago del Estero","Cordoba","Sucre","Santa Fe","Rosario","Potosi","Cochabamba","Paraná","Carmen de Patagones","Concepción del Uruguay","San Nicolás","Concordia","Villa Occidental","Mercedes","Diamante","Candelaria","Dolores","San Miguel","La Paz","Gualeguay","Zarate","San Antonio de los Cobres","Médanos","Moron"]
+	},
+	{
                 "name": "Chile (Independencia)",
 		"leaderName": "Bernardo O'Higgins",
 		"adjective": ["Chilean"],
