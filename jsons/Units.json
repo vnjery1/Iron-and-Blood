@@ -778,7 +778,8 @@
 		"rangedStrength": 90,
 		"cost": 140,
 		"requiredTech": "Advanced Hydrodinamics",
-    "uniques": ["May withdraw before melee ([73]%)","Torpedo"]
+                "uniques": ["May withdraw before melee ([73]%)","Torpedo"]
+	},
 //Civilian Ship
 	{
 		"name": "Work Boats",
